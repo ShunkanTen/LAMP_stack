@@ -1,4 +1,7 @@
 I wrote a bash script that automatically deploys and configures a template and an application on an empty server.
+
+How it works:
+
 ![How it works:](LAMP.png)
  
  __Tools:__
